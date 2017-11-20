@@ -1,4 +1,4 @@
-baseURL = "http://sarlatan.sk/"
+baseURL = ""
 languageCode = "sk-SK"
 title = "šarlatán"
 theme = "minimal"
