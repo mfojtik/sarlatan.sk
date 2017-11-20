@@ -1,0 +1,18 @@
+baseURL = "http://sarlatan.sk/"
+languageCode = "sk-SK"
+title = "šarlatán"
+theme = "minimal"
+disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = "UA-109743259-1"
+
+[params]
+    author = "Michal Fojtik"
+    description = "v starších časoch neodborný lekár a mastičkár používajúci miesto liečenia liekmi rôzne čarodejnícke prostriedky."
+    accent = "blue"
+    showBorder = false
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = false
+
+
+
